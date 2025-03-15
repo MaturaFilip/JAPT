@@ -1,6 +1,5 @@
 {
-    "focus_min": 25,
-    "rest_min": 5,
-    "cycles": 4
+    "focus_min": 20,
+    "rest_min": 20,
+    "cycles": 20
 }
-
